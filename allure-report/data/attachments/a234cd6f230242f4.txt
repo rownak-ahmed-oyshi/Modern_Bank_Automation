@@ -1,0 +1,14 @@
+[32mINFO    [0m root:conftest.py:15 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:17 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:22 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:15 TC_TB_MAN_04 Started..
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:23 Click on Register as Manager successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:32 Manager Full Name entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:41 Manager Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:50 Manager Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:59 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_04.py:70 Test Passed. Message matched: 'Password must be at least 6 characters long.'
+[32mINFO    [0m root:conftest.py:25 Script Complete.
+[32mINFO    [0m root:conftest.py:27 End Browser Session...
+[32mINFO    [0m root:conftest.py:28 ................
+[32mINFO    [0m root:conftest.py:29 ................

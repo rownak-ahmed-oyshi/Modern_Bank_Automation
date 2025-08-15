@@ -1,0 +1,41 @@
+{
+  "valid_customers": [
+    {
+      "customer_full_name": "Rownak Ahmed Oyshi",
+      "customer_email": "rownakahmedoyshi@gmail.com",
+      "customer_password": "123456",
+      "initial_deposit": "100",
+      "expected_message": "Customer registered! Please login."
+    },
+    {
+      "customer_full_name": "Rownak Ahmed Oyshi",
+      "customer_email": "rownakahmedoyshi@gmail.com",
+      "customer_password": "123456",
+      "initial_deposit": "100",
+      "expected_error_message": "Email already registered."
+    }
+  ],
+  "invalid_customers": [
+    {
+      "customer_full_name": "",
+      "customer_email": "rownakahmedoyshi@gmail.com",
+      "customer_password": "123456",
+      "initial_deposit": "100",
+      "expected_validation_message": "Please fill out this field."
+    },
+    {
+      "customer_full_name": "Rownak",
+      "customer_email": "rownak123gmail.com",
+      "customer_password": "123456",
+      "initial_deposit": "100",
+      "expected_validation_message": "Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'."
+    },
+    {
+      "customer_full_name": "John Doe",
+      "customer_email": "johndoe@gmail.com",
+      "customer_password": "123456",
+      "initial_deposit": "9",
+      "expected_validation_message": "Value must be greater than or equal to 10."
+    }
+  ]
+}

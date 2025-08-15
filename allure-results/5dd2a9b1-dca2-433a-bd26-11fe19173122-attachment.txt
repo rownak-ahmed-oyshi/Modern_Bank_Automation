@@ -1,0 +1,14 @@
+[32mINFO    [0m root:conftest.py:15 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:17 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:22 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:16 TC_TB_CUST_02 Started..
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:24 Click on Open Your Account Button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:35 Customer Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:44 Customer Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:53 Customer Initial Deposit Entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:62 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_02.py:74 Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
+[32mINFO    [0m root:conftest.py:25 Script Complete.
+[32mINFO    [0m root:conftest.py:27 End Browser Session...
+[32mINFO    [0m root:conftest.py:28 ................
+[32mINFO    [0m root:conftest.py:29 ................
