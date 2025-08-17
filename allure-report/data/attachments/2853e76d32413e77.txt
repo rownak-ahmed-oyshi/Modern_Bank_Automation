@@ -1,0 +1,13 @@
+[32mINFO    [0m root:conftest.py:16 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:20 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:25 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:15 TC_TB_MAN_02 Started..
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:23 Click on Register as Manager successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:33 Manager Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:42 Manager Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:51 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_02.py:63 Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
+[32mINFO    [0m root:conftest.py:28 Script Complete.
+[32mINFO    [0m root:conftest.py:30 End Browser Session...
+[32mINFO    [0m root:conftest.py:31 ................
+[32mINFO    [0m root:conftest.py:32 ................

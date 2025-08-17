@@ -1,739 +1,290 @@
-2025-08-15 18:40:39,884 - INFO - Starting Browser Session...
-2025-08-15 18:40:41,378 - INFO - Browser Launch Successfully.
-2025-08-15 18:40:41,787 - INFO - URL Open Successfully.
-2025-08-15 18:40:41,790 - INFO - TC_TB_CUST_01 Started..
-2025-08-15 18:40:42,698 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 18:40:42,837 - INFO - Customer Full Name entered successfully.
-2025-08-15 18:40:42,983 - INFO - Customer Email Address entered successfully.
-2025-08-15 18:40:43,076 - INFO - Customer Password Enter successfully.
-2025-08-15 18:40:43,153 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 18:40:43,299 - INFO - Click on Register button successfully.
-2025-08-15 18:40:43,350 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
-2025-08-15 18:40:43,351 - INFO - Script Complete.
-2025-08-15 18:40:45,652 - INFO - End Browser Session...
-2025-08-15 18:40:47,488 - INFO - ................
-2025-08-15 18:40:47,489 - INFO - ................
-2025-08-15 18:40:47,491 - INFO - Starting Browser Session...
-2025-08-15 18:40:48,974 - INFO - Browser Launch Successfully.
-2025-08-15 18:40:49,334 - INFO - URL Open Successfully.
-2025-08-15 18:40:49,336 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 18:40:50,461 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 18:40:50,606 - INFO - Customer Email Address entered successfully.
-2025-08-15 18:40:50,702 - INFO - Customer Password Enter successfully.
-2025-08-15 18:40:50,774 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 18:40:50,888 - INFO - Click on Register button successfully.
-2025-08-15 18:40:50,924 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 18:40:50,925 - INFO - Script Complete.
-2025-08-15 18:40:53,229 - INFO - End Browser Session...
-2025-08-15 18:40:53,229 - INFO - ................
-2025-08-15 18:40:53,229 - INFO - ................
-2025-08-15 18:40:53,231 - INFO - Starting Browser Session...
-2025-08-15 18:40:54,805 - INFO - Browser Launch Successfully.
-2025-08-15 18:40:55,090 - INFO - URL Open Successfully.
-2025-08-15 18:40:55,091 - INFO - TC_TB_CUST_03 Started..
-2025-08-15 18:40:56,019 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 18:40:56,170 - INFO - Customer Full Name entered successfully.
-2025-08-15 18:40:56,338 - INFO - Customer Email Address entered successfully.
-2025-08-15 18:40:56,438 - INFO - Customer Password Enter successfully.
-2025-08-15 18:40:56,519 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 18:40:56,692 - INFO - Click on Register button successfully.
-2025-08-15 18:40:57,274 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 18:40:57,320 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 18:40:57,324 - INFO - Script Complete.
-2025-08-15 18:40:59,586 - INFO - End Browser Session...
-2025-08-15 18:40:59,586 - INFO - ................
-2025-08-15 18:40:59,586 - INFO - ................
-2025-08-15 18:40:59,588 - INFO - Starting Browser Session...
-2025-08-15 18:41:01,210 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:03,292 - INFO - URL Open Successfully.
-2025-08-15 18:41:03,293 - INFO - TC_TB_CUST_04 Started..
-2025-08-15 18:41:03,434 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 18:41:03,575 - INFO - Customer Full Name entered successfully.
-2025-08-15 18:41:03,685 - INFO - Customer Email Address entered successfully.
-2025-08-15 18:41:03,770 - INFO - Customer Password Enter successfully.
-2025-08-15 18:41:03,856 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 18:41:03,990 - INFO - Click on Register button successfully.
-2025-08-15 18:41:04,043 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
-2025-08-15 18:41:04,044 - INFO - Script Complete.
-2025-08-15 18:41:06,401 - INFO - End Browser Session...
-2025-08-15 18:41:06,401 - INFO - ................
-2025-08-15 18:41:06,401 - INFO - ................
-2025-08-15 18:41:06,403 - INFO - Starting Browser Session...
-2025-08-15 18:41:08,072 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:09,208 - INFO - URL Open Successfully.
-2025-08-15 18:41:09,209 - INFO - TC_TB_CUST_05 Started..
-2025-08-15 18:41:09,360 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 18:41:09,507 - INFO - Customer Full Name entered successfully.
-2025-08-15 18:41:09,622 - INFO - Customer Email Address entered successfully.
-2025-08-15 18:41:09,717 - INFO - Customer Password Enter successfully.
-2025-08-15 18:41:09,798 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 18:41:09,918 - INFO - Click on Register button successfully.
-2025-08-15 18:41:09,946 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
-2025-08-15 18:41:09,948 - INFO - Script Complete.
-2025-08-15 18:41:12,247 - INFO - End Browser Session...
-2025-08-15 18:41:12,247 - INFO - ................
-2025-08-15 18:41:12,248 - INFO - ................
-2025-08-15 18:41:12,249 - INFO - Starting Browser Session...
-2025-08-15 18:41:15,548 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:16,818 - INFO - URL Open Successfully.
-2025-08-15 18:41:16,819 - INFO - TC_TB_MAN_01 Started..
-2025-08-15 18:41:16,954 - INFO - Click on Register as Manager successfully.
-2025-08-15 18:41:17,098 - INFO - Manager Full Name entered successfully.
-2025-08-15 18:41:17,237 - INFO - Manager Email Address entered successfully.
-2025-08-15 18:41:17,327 - INFO - Manager Password Enter successfully.
-2025-08-15 18:41:17,499 - INFO - Click on Register button successfully.
-2025-08-15 18:41:17,542 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
-2025-08-15 18:41:17,543 - INFO - Script Complete.
-2025-08-15 18:41:19,835 - INFO - End Browser Session...
-2025-08-15 18:41:19,835 - INFO - ................
-2025-08-15 18:41:19,835 - INFO - ................
-2025-08-15 18:41:19,837 - INFO - Starting Browser Session...
-2025-08-15 18:41:23,245 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:23,536 - INFO - URL Open Successfully.
-2025-08-15 18:41:23,537 - INFO - TC_TB_MAN_02 Started..
-2025-08-15 18:41:24,417 - INFO - Click on Register as Manager successfully.
-2025-08-15 18:41:24,563 - INFO - Manager Email Address entered successfully.
-2025-08-15 18:41:24,682 - INFO - Manager Password Enter successfully.
-2025-08-15 18:41:24,789 - INFO - Click on Register button successfully.
-2025-08-15 18:41:24,819 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 18:41:24,821 - INFO - Script Complete.
-2025-08-15 18:41:27,079 - INFO - End Browser Session...
-2025-08-15 18:41:27,079 - INFO - ................
-2025-08-15 18:41:27,079 - INFO - ................
-2025-08-15 18:41:27,081 - INFO - Starting Browser Session...
-2025-08-15 18:41:28,543 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:28,983 - INFO - URL Open Successfully.
-2025-08-15 18:41:28,984 - INFO - TC_TB_MAN_03 Started..
-2025-08-15 18:41:29,915 - INFO - Click on Register as Manager successfully.
-2025-08-15 18:41:30,063 - INFO - Manager Full Name entered successfully.
-2025-08-15 18:41:30,205 - INFO - Manager Email Address entered successfully.
-2025-08-15 18:41:30,301 - INFO - Manager Password Enter successfully.
-2025-08-15 18:41:30,462 - INFO - Click on Register button successfully.
-2025-08-15 18:41:30,982 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 18:41:31,022 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 18:41:31,024 - INFO - Script Complete.
-2025-08-15 18:41:33,303 - INFO - End Browser Session...
-2025-08-15 18:41:33,437 - INFO - ................
-2025-08-15 18:41:33,437 - INFO - ................
-2025-08-15 18:41:33,439 - INFO - Starting Browser Session...
-2025-08-15 18:41:35,007 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:36,133 - INFO - URL Open Successfully.
-2025-08-15 18:41:36,133 - INFO - TC_TB_MAN_04 Started..
-2025-08-15 18:41:36,266 - INFO - Click on Register as Manager successfully.
-2025-08-15 18:41:36,386 - INFO - Manager Full Name entered successfully.
-2025-08-15 18:41:36,514 - INFO - Manager Email Address entered successfully.
-2025-08-15 18:41:36,593 - INFO - Manager Password Enter successfully.
-2025-08-15 18:41:36,729 - INFO - Click on Register button successfully.
-2025-08-15 18:41:36,783 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
-2025-08-15 18:41:36,784 - INFO - Script Complete.
-2025-08-15 18:41:39,062 - INFO - End Browser Session...
-2025-08-15 18:41:39,063 - INFO - ................
-2025-08-15 18:41:39,063 - INFO - ................
-2025-08-15 18:41:39,064 - INFO - Starting Browser Session...
-2025-08-15 18:41:40,510 - INFO - Browser Launch Successfully.
-2025-08-15 18:41:41,729 - INFO - URL Open Successfully.
-2025-08-15 18:41:41,730 - INFO - TC_TB_MAN_05 Started..
-2025-08-15 18:41:41,854 - INFO - Click on Register as Manager successfully.
-2025-08-15 18:41:41,980 - INFO - Manager Full Name entered successfully.
-2025-08-15 18:41:42,166 - INFO - Manager Email Address entered successfully.
-2025-08-15 18:41:42,257 - INFO - Manager Password Enter successfully.
-2025-08-15 18:41:42,362 - INFO - Click on Register button successfully.
-2025-08-15 18:41:42,383 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
-2025-08-15 18:41:42,384 - INFO - Script Complete.
-2025-08-15 18:41:44,684 - INFO - End Browser Session...
-2025-08-15 18:41:44,684 - INFO - ................
-2025-08-15 18:41:44,684 - INFO - ................
-2025-08-15 19:10:12,755 - INFO - Starting Browser Session...
-2025-08-15 19:10:18,087 - INFO - Browser Launch Successfully.
-2025-08-15 19:10:19,519 - INFO - URL Open Successfully.
-2025-08-15 19:10:19,525 - INFO - TC_TB_CUST_01 Started..
-2025-08-15 19:10:20,669 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:10:20,835 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:10:20,965 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:10:21,062 - INFO - Customer Password Enter successfully.
-2025-08-15 19:10:21,159 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:10:21,351 - INFO - Click on Register button successfully.
-2025-08-15 19:10:21,405 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
-2025-08-15 19:10:21,408 - INFO - Script Complete.
-2025-08-15 19:10:24,023 - INFO - End Browser Session...
-2025-08-15 19:10:24,023 - INFO - ................
-2025-08-15 19:10:24,023 - INFO - ................
-2025-08-15 19:10:24,030 - INFO - Starting Browser Session...
-2025-08-15 19:10:26,033 - INFO - Browser Launch Successfully.
-2025-08-15 19:10:28,481 - INFO - URL Open Successfully.
-2025-08-15 19:10:28,483 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 19:10:28,687 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:10:28,856 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:10:28,958 - INFO - Customer Password Enter successfully.
-2025-08-15 19:10:29,044 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:10:29,180 - INFO - Click on Register button successfully.
-2025-08-15 19:10:29,217 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:10:30,047 - INFO - Script Complete.
-2025-08-15 19:10:32,815 - INFO - End Browser Session...
-2025-08-15 19:10:32,815 - INFO - ................
-2025-08-15 19:10:32,816 - INFO - ................
-2025-08-15 19:10:32,822 - INFO - Starting Browser Session...
-2025-08-15 19:10:34,649 - INFO - Browser Launch Successfully.
-2025-08-15 19:10:36,439 - INFO - URL Open Successfully.
-2025-08-15 19:10:36,440 - INFO - TC_TB_CUST_03 Started..
-2025-08-15 19:10:36,581 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:10:36,742 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:10:36,870 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:10:36,955 - INFO - Customer Password Enter successfully.
-2025-08-15 19:10:37,032 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:10:37,198 - INFO - Click on Register button successfully.
-2025-08-15 19:10:37,753 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:10:37,795 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:10:37,798 - INFO - Script Complete.
-2025-08-15 19:10:40,322 - INFO - End Browser Session...
-2025-08-15 19:10:40,322 - INFO - ................
-2025-08-15 19:10:40,323 - INFO - ................
-2025-08-15 19:10:40,329 - INFO - Starting Browser Session...
-2025-08-15 19:10:41,898 - INFO - Browser Launch Successfully.
-2025-08-15 19:10:53,375 - INFO - URL Open Successfully.
-2025-08-15 19:10:53,377 - INFO - TC_TB_CUST_04 Started..
-2025-08-15 19:10:53,522 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:10:53,655 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:10:53,778 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:10:53,884 - INFO - Customer Password Enter successfully.
-2025-08-15 19:10:53,978 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:10:54,154 - INFO - Click on Register button successfully.
-2025-08-15 19:10:54,202 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
-2025-08-15 19:10:54,218 - INFO - Script Complete.
-2025-08-15 19:10:56,987 - INFO - End Browser Session...
-2025-08-15 19:11:02,980 - INFO - ................
-2025-08-15 19:11:02,980 - INFO - ................
-2025-08-15 19:11:03,072 - INFO - Starting Browser Session...
-2025-08-15 19:11:05,366 - INFO - Browser Launch Successfully.
-2025-08-15 19:11:17,601 - INFO - URL Open Successfully.
-2025-08-15 19:11:17,603 - INFO - TC_TB_CUST_05 Started..
-2025-08-15 19:11:17,739 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:11:17,865 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:11:17,978 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:11:18,069 - INFO - Customer Password Enter successfully.
-2025-08-15 19:11:18,154 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:11:18,272 - INFO - Click on Register button successfully.
-2025-08-15 19:11:18,321 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
-2025-08-15 19:11:18,324 - INFO - Script Complete.
-2025-08-15 19:11:20,898 - INFO - End Browser Session...
-2025-08-15 19:11:20,898 - INFO - ................
-2025-08-15 19:11:20,899 - INFO - ................
-2025-08-15 19:11:20,904 - INFO - Starting Browser Session...
-2025-08-15 19:11:22,402 - INFO - Browser Launch Successfully.
-2025-08-15 19:11:35,764 - INFO - URL Open Successfully.
-2025-08-15 19:11:35,766 - INFO - TC_TB_MAN_01 Started..
-2025-08-15 19:11:35,888 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:11:36,031 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:11:36,153 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:11:36,241 - INFO - Manager Password Enter successfully.
-2025-08-15 19:11:36,391 - INFO - Click on Register button successfully.
-2025-08-15 19:11:36,450 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
-2025-08-15 19:11:36,452 - INFO - Script Complete.
-2025-08-15 19:11:38,766 - INFO - End Browser Session...
-2025-08-15 19:11:38,766 - INFO - ................
-2025-08-15 19:11:38,766 - INFO - ................
-2025-08-15 19:11:41,232 - INFO - Starting Browser Session...
-2025-08-15 19:11:42,828 - INFO - Browser Launch Successfully.
-2025-08-15 19:11:48,504 - INFO - URL Open Successfully.
-2025-08-15 19:11:48,506 - INFO - TC_TB_MAN_02 Started..
-2025-08-15 19:11:48,629 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:11:51,035 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:11:51,137 - INFO - Manager Password Enter successfully.
-2025-08-15 19:11:51,255 - INFO - Click on Register button successfully.
-2025-08-15 19:11:51,287 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:11:51,289 - INFO - Script Complete.
-2025-08-15 19:11:53,617 - INFO - End Browser Session...
-2025-08-15 19:11:54,535 - INFO - ................
-2025-08-15 19:11:54,536 - INFO - ................
-2025-08-15 19:11:54,542 - INFO - Starting Browser Session...
-2025-08-15 19:11:56,202 - INFO - Browser Launch Successfully.
-2025-08-15 19:12:08,238 - INFO - URL Open Successfully.
-2025-08-15 19:12:08,240 - INFO - TC_TB_MAN_03 Started..
-2025-08-15 19:12:08,378 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:12:08,561 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:12:08,725 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:12:08,826 - INFO - Manager Password Enter successfully.
-2025-08-15 19:12:08,969 - INFO - Click on Register button successfully.
-2025-08-15 19:12:09,476 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:12:09,515 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:12:10,728 - INFO - Script Complete.
-2025-08-15 19:12:13,235 - INFO - End Browser Session...
-2025-08-15 19:12:13,235 - INFO - ................
-2025-08-15 19:12:13,235 - INFO - ................
-2025-08-15 19:12:13,240 - INFO - Starting Browser Session...
-2025-08-15 19:12:14,731 - INFO - Browser Launch Successfully.
-2025-08-15 19:12:20,618 - INFO - URL Open Successfully.
-2025-08-15 19:12:20,620 - INFO - TC_TB_MAN_04 Started..
-2025-08-15 19:12:20,742 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:12:20,869 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:12:20,972 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:12:21,055 - INFO - Manager Password Enter successfully.
-2025-08-15 19:12:21,205 - INFO - Click on Register button successfully.
-2025-08-15 19:12:21,248 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
-2025-08-15 19:12:21,250 - INFO - Script Complete.
-2025-08-15 19:12:23,542 - INFO - End Browser Session...
-2025-08-15 19:12:23,543 - INFO - ................
-2025-08-15 19:12:23,543 - INFO - ................
-2025-08-15 19:12:28,467 - INFO - Starting Browser Session...
-2025-08-15 19:12:29,886 - INFO - Browser Launch Successfully.
-2025-08-15 19:12:35,661 - INFO - URL Open Successfully.
-2025-08-15 19:12:35,663 - INFO - TC_TB_MAN_05 Started..
-2025-08-15 19:12:35,803 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:12:35,929 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:12:36,041 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:12:36,142 - INFO - Manager Password Enter successfully.
-2025-08-15 19:12:36,249 - INFO - Click on Register button successfully.
-2025-08-15 19:12:36,275 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
-2025-08-15 19:12:36,279 - INFO - Script Complete.
-2025-08-15 19:12:38,581 - INFO - End Browser Session...
-2025-08-15 19:12:38,581 - INFO - ................
-2025-08-15 19:12:38,582 - INFO - ................
-2025-08-15 19:43:40,499 - INFO - Starting Browser Session...
-2025-08-15 19:43:42,157 - INFO - Browser Launch Successfully.
-2025-08-15 19:43:54,963 - INFO - URL Open Successfully.
-2025-08-15 19:43:54,965 - INFO - TC_TB_CUST_01 Started..
-2025-08-15 19:43:55,107 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:43:55,226 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:43:55,346 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:43:55,428 - INFO - Customer Password Enter successfully.
-2025-08-15 19:43:55,496 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:43:55,650 - INFO - Click on Register button successfully.
-2025-08-15 19:43:55,697 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
-2025-08-15 19:43:55,698 - INFO - Script Complete.
-2025-08-15 19:43:57,982 - INFO - End Browser Session...
-2025-08-15 19:43:57,983 - INFO - ................
-2025-08-15 19:43:57,983 - INFO - ................
-2025-08-15 19:43:57,985 - INFO - Starting Browser Session...
-2025-08-15 19:43:59,544 - INFO - Browser Launch Successfully.
-2025-08-15 19:44:11,696 - INFO - URL Open Successfully.
-2025-08-15 19:44:11,697 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 19:44:11,829 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:44:11,953 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:44:12,033 - INFO - Customer Password Enter successfully.
-2025-08-15 19:44:12,098 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:44:12,210 - INFO - Click on Register button successfully.
-2025-08-15 19:44:12,356 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:44:12,358 - INFO - Script Complete.
-2025-08-15 19:44:14,915 - INFO - End Browser Session...
-2025-08-15 19:44:14,915 - INFO - ................
-2025-08-15 19:44:14,915 - INFO - ................
-2025-08-15 19:44:14,917 - INFO - Starting Browser Session...
-2025-08-15 19:44:16,426 - INFO - Browser Launch Successfully.
-2025-08-15 19:44:26,727 - INFO - URL Open Successfully.
-2025-08-15 19:44:26,728 - INFO - TC_TB_CUST_03 Started..
-2025-08-15 19:44:26,865 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:44:27,851 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:44:27,964 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:44:28,069 - INFO - Customer Password Enter successfully.
-2025-08-15 19:44:28,191 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:44:28,392 - INFO - Click on Register button successfully.
-2025-08-15 19:44:28,963 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:44:28,998 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:44:29,000 - INFO - Script Complete.
-2025-08-15 19:44:31,262 - INFO - End Browser Session...
-2025-08-15 19:44:31,262 - INFO - ................
-2025-08-15 19:44:31,263 - INFO - ................
-2025-08-15 19:44:31,265 - INFO - Starting Browser Session...
-2025-08-15 19:44:32,761 - INFO - Browser Launch Successfully.
-2025-08-15 19:44:57,216 - INFO - URL Open Successfully.
-2025-08-15 19:44:57,217 - INFO - TC_TB_CUST_04 Started..
-2025-08-15 19:44:57,378 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:44:57,499 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:44:57,608 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:44:57,697 - INFO - Customer Password Enter successfully.
-2025-08-15 19:44:57,769 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:44:57,884 - INFO - Click on Register button successfully.
-2025-08-15 19:44:57,942 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
-2025-08-15 19:44:57,943 - INFO - Script Complete.
-2025-08-15 19:45:00,238 - INFO - End Browser Session...
-2025-08-15 19:45:20,880 - INFO - ................
-2025-08-15 19:45:20,880 - INFO - ................
-2025-08-15 19:45:20,883 - INFO - Starting Browser Session...
-2025-08-15 19:45:22,458 - INFO - Browser Launch Successfully.
-2025-08-15 19:45:24,062 - INFO - URL Open Successfully.
-2025-08-15 19:45:27,391 - INFO - TC_TB_CUST_05 Started..
-2025-08-15 19:45:27,542 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:45:27,654 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:45:27,766 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:45:27,847 - INFO - Customer Password Enter successfully.
-2025-08-15 19:45:27,918 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:45:28,037 - INFO - Click on Register button successfully.
-2025-08-15 19:45:28,062 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
-2025-08-15 19:45:28,063 - INFO - Script Complete.
-2025-08-15 19:45:30,352 - INFO - End Browser Session...
-2025-08-15 19:45:30,352 - INFO - ................
-2025-08-15 19:45:30,352 - INFO - ................
-2025-08-15 19:45:30,354 - INFO - Starting Browser Session...
-2025-08-15 19:45:31,839 - INFO - Browser Launch Successfully.
-2025-08-15 19:45:33,212 - INFO - URL Open Successfully.
-2025-08-15 19:45:33,213 - INFO - TC_TB_MAN_01 Started..
-2025-08-15 19:45:33,347 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:45:33,475 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:45:33,578 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:45:33,657 - INFO - Manager Password Enter successfully.
-2025-08-15 19:45:33,795 - INFO - Click on Register button successfully.
-2025-08-15 19:45:38,411 - INFO - Test Failed. Expected: 'Manager registered! Please login.', Actual: ''
-2025-08-15 19:46:02,045 - INFO - Script Complete.
-2025-08-15 19:46:04,289 - INFO - End Browser Session...
-2025-08-15 19:46:04,289 - INFO - ................
-2025-08-15 19:46:04,289 - INFO - ................
-2025-08-15 19:46:04,291 - INFO - Starting Browser Session...
-2025-08-15 19:46:05,768 - INFO - Browser Launch Successfully.
-2025-08-15 19:46:06,165 - INFO - URL Open Successfully.
-2025-08-15 19:46:06,166 - INFO - TC_TB_MAN_02 Started..
-2025-08-15 19:46:07,098 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:46:07,237 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:46:07,337 - INFO - Manager Password Enter successfully.
-2025-08-15 19:46:07,476 - INFO - Click on Register button successfully.
-2025-08-15 19:46:07,512 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:46:07,514 - INFO - Script Complete.
-2025-08-15 19:46:09,775 - INFO - End Browser Session...
-2025-08-15 19:46:09,775 - INFO - ................
-2025-08-15 19:46:09,775 - INFO - ................
-2025-08-15 19:46:09,777 - INFO - Starting Browser Session...
-2025-08-15 19:46:11,261 - INFO - Browser Launch Successfully.
-2025-08-15 19:46:12,492 - INFO - URL Open Successfully.
-2025-08-15 19:46:12,493 - INFO - TC_TB_MAN_03 Started..
-2025-08-15 19:46:12,627 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:46:12,765 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:46:12,880 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:46:12,956 - INFO - Manager Password Enter successfully.
-2025-08-15 19:46:13,093 - INFO - Click on Register button successfully.
-2025-08-15 19:46:13,448 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:46:13,488 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:46:13,489 - INFO - Script Complete.
-2025-08-15 19:46:15,712 - INFO - End Browser Session...
-2025-08-15 19:46:15,712 - INFO - ................
-2025-08-15 19:46:15,713 - INFO - ................
-2025-08-15 19:46:15,715 - INFO - Starting Browser Session...
-2025-08-15 19:46:17,242 - INFO - Browser Launch Successfully.
-2025-08-15 19:46:18,285 - INFO - URL Open Successfully.
-2025-08-15 19:46:18,287 - INFO - TC_TB_MAN_04 Started..
-2025-08-15 19:46:18,420 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:46:18,538 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:46:18,643 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:46:18,719 - INFO - Manager Password Enter successfully.
-2025-08-15 19:46:18,851 - INFO - Click on Register button successfully.
-2025-08-15 19:46:18,897 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
-2025-08-15 19:46:18,899 - INFO - Script Complete.
-2025-08-15 19:46:21,122 - INFO - End Browser Session...
-2025-08-15 19:46:21,122 - INFO - ................
-2025-08-15 19:46:21,122 - INFO - ................
-2025-08-15 19:46:21,124 - INFO - Starting Browser Session...
-2025-08-15 19:46:22,784 - INFO - Browser Launch Successfully.
-2025-08-15 19:46:25,048 - INFO - URL Open Successfully.
-2025-08-15 19:46:25,049 - INFO - TC_TB_MAN_05 Started..
-2025-08-15 19:46:25,188 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:46:25,310 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:46:25,429 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:46:25,525 - INFO - Manager Password Enter successfully.
-2025-08-15 19:46:25,636 - INFO - Click on Register button successfully.
-2025-08-15 19:46:25,660 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
-2025-08-15 19:46:25,662 - INFO - Script Complete.
-2025-08-15 19:46:27,881 - INFO - End Browser Session...
-2025-08-15 19:46:27,881 - INFO - ................
-2025-08-15 19:46:27,882 - INFO - ................
-2025-08-15 19:49:45,539 - INFO - Starting Browser Session...
-2025-08-15 19:49:47,020 - INFO - Browser Launch Successfully.
-2025-08-15 19:49:47,341 - INFO - URL Open Successfully.
-2025-08-15 19:49:47,343 - INFO - TC_TB_MAN_01 Started..
-2025-08-15 19:49:48,310 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:49:48,435 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:49:48,567 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:49:48,651 - INFO - Manager Password Enter successfully.
-2025-08-15 19:49:48,796 - INFO - Click on Register button successfully.
-2025-08-15 19:49:48,845 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
-2025-08-15 19:49:48,848 - INFO - Script Complete.
-2025-08-15 19:49:51,114 - INFO - End Browser Session...
-2025-08-15 19:49:51,115 - INFO - ................
-2025-08-15 19:49:51,115 - INFO - ................
-2025-08-15 19:50:11,266 - INFO - Starting Browser Session...
-2025-08-15 19:50:12,885 - INFO - Browser Launch Successfully.
-2025-08-15 19:50:13,176 - INFO - URL Open Successfully.
-2025-08-15 19:50:13,178 - INFO - TC_TB_MAN_02 Started..
-2025-08-15 19:50:14,112 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:50:14,267 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:50:14,366 - INFO - Manager Password Enter successfully.
-2025-08-15 19:50:14,492 - INFO - Click on Register button successfully.
-2025-08-15 19:50:14,533 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:50:14,538 - INFO - Script Complete.
-2025-08-15 19:50:16,840 - INFO - End Browser Session...
-2025-08-15 19:50:16,841 - INFO - ................
-2025-08-15 19:50:16,841 - INFO - ................
-2025-08-15 19:50:26,115 - INFO - Starting Browser Session...
-2025-08-15 19:50:27,656 - INFO - Browser Launch Successfully.
-2025-08-15 19:50:28,784 - INFO - URL Open Successfully.
-2025-08-15 19:50:28,786 - INFO - TC_TB_MAN_03 Started..
-2025-08-15 19:50:28,929 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:50:29,056 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:50:29,177 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:50:29,257 - INFO - Manager Password Enter successfully.
-2025-08-15 19:50:29,391 - INFO - Click on Register button successfully.
-2025-08-15 19:50:29,756 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:50:29,795 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:50:29,796 - INFO - Script Complete.
-2025-08-15 19:50:32,036 - INFO - End Browser Session...
-2025-08-15 19:50:32,036 - INFO - ................
-2025-08-15 19:50:32,036 - INFO - ................
-2025-08-15 19:50:38,686 - INFO - Starting Browser Session...
-2025-08-15 19:50:40,243 - INFO - Browser Launch Successfully.
-2025-08-15 19:50:41,385 - INFO - URL Open Successfully.
-2025-08-15 19:50:41,387 - INFO - TC_TB_MAN_04 Started..
-2025-08-15 19:50:41,519 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:50:41,642 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:50:41,767 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:50:41,876 - INFO - Manager Password Enter successfully.
-2025-08-15 19:50:42,021 - INFO - Click on Register button successfully.
-2025-08-15 19:50:42,061 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
-2025-08-15 19:50:42,063 - INFO - Script Complete.
-2025-08-15 19:50:44,258 - INFO - End Browser Session...
-2025-08-15 19:50:44,258 - INFO - ................
-2025-08-15 19:50:44,258 - INFO - ................
-2025-08-15 19:50:49,787 - INFO - Starting Browser Session...
-2025-08-15 19:50:51,407 - INFO - Browser Launch Successfully.
-2025-08-15 19:50:52,445 - INFO - URL Open Successfully.
-2025-08-15 19:50:52,446 - INFO - TC_TB_MAN_05 Started..
-2025-08-15 19:50:52,590 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:50:52,709 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:50:52,830 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:50:52,928 - INFO - Manager Password Enter successfully.
-2025-08-15 19:50:53,035 - INFO - Click on Register button successfully.
-2025-08-15 19:50:53,060 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
-2025-08-15 19:50:53,061 - INFO - Script Complete.
-2025-08-15 19:50:55,294 - INFO - End Browser Session...
-2025-08-15 19:50:55,294 - INFO - ................
-2025-08-15 19:50:55,295 - INFO - ................
-2025-08-15 19:51:07,454 - INFO - Starting Browser Session...
-2025-08-15 19:51:09,035 - INFO - Browser Launch Successfully.
-2025-08-15 19:51:10,361 - INFO - URL Open Successfully.
-2025-08-15 19:51:10,363 - INFO - TC_TB_CUST_01 Started..
-2025-08-15 19:51:10,503 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:51:10,641 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:51:10,759 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:51:10,842 - INFO - Customer Password Enter successfully.
-2025-08-15 19:51:10,912 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:51:11,101 - INFO - Click on Register button successfully.
-2025-08-15 19:51:11,156 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
-2025-08-15 19:51:11,157 - INFO - Script Complete.
-2025-08-15 19:51:13,388 - INFO - End Browser Session...
-2025-08-15 19:51:13,388 - INFO - ................
-2025-08-15 19:51:13,388 - INFO - ................
-2025-08-15 19:51:24,576 - INFO - Starting Browser Session...
-2025-08-15 19:51:26,011 - INFO - Browser Launch Successfully.
-2025-08-15 19:51:27,304 - INFO - URL Open Successfully.
-2025-08-15 19:51:27,306 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 19:51:27,448 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:51:27,580 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:51:27,680 - INFO - Customer Password Enter successfully.
-2025-08-15 19:51:27,754 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:51:27,868 - INFO - Click on Register button successfully.
-2025-08-15 19:51:27,901 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:51:27,903 - INFO - Script Complete.
-2025-08-15 19:51:30,109 - INFO - End Browser Session...
-2025-08-15 19:51:30,109 - INFO - ................
-2025-08-15 19:51:30,109 - INFO - ................
-2025-08-15 19:51:41,865 - INFO - Starting Browser Session...
-2025-08-15 19:51:43,364 - INFO - Browser Launch Successfully.
-2025-08-15 19:51:44,751 - INFO - URL Open Successfully.
-2025-08-15 19:51:44,752 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 19:51:44,893 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:51:45,040 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:51:45,137 - INFO - Customer Password Enter successfully.
-2025-08-15 19:51:45,209 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:51:45,320 - INFO - Click on Register button successfully.
-2025-08-15 19:51:45,352 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:51:45,354 - INFO - Script Complete.
-2025-08-15 19:51:47,584 - INFO - End Browser Session...
-2025-08-15 19:51:48,612 - INFO - ................
-2025-08-15 19:51:48,612 - INFO - ................
-2025-08-15 19:52:01,368 - INFO - Starting Browser Session...
-2025-08-15 19:52:02,916 - INFO - Browser Launch Successfully.
-2025-08-15 19:52:04,431 - INFO - URL Open Successfully.
-2025-08-15 19:52:04,432 - INFO - TC_TB_CUST_03 Started..
-2025-08-15 19:52:04,572 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:52:04,724 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:52:04,846 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:52:04,933 - INFO - Customer Password Enter successfully.
-2025-08-15 19:52:05,005 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:52:05,150 - INFO - Click on Register button successfully.
-2025-08-15 19:52:05,616 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:52:05,661 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:52:05,663 - INFO - Script Complete.
-2025-08-15 19:52:07,868 - INFO - End Browser Session...
-2025-08-15 19:52:07,869 - INFO - ................
-2025-08-15 19:52:07,869 - INFO - ................
-2025-08-15 19:52:23,725 - INFO - Starting Browser Session...
-2025-08-15 19:52:25,241 - INFO - Browser Launch Successfully.
-2025-08-15 19:52:26,405 - INFO - URL Open Successfully.
-2025-08-15 19:52:26,407 - INFO - TC_TB_CUST_04 Started..
-2025-08-15 19:52:26,544 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:52:26,678 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:52:26,792 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:52:26,906 - INFO - Customer Password Enter successfully.
-2025-08-15 19:52:26,975 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:52:27,099 - INFO - Click on Register button successfully.
-2025-08-15 19:52:27,130 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
-2025-08-15 19:52:27,132 - INFO - Script Complete.
-2025-08-15 19:52:29,384 - INFO - End Browser Session...
-2025-08-15 19:52:29,384 - INFO - ................
-2025-08-15 19:52:29,384 - INFO - ................
-2025-08-15 19:52:41,108 - INFO - Starting Browser Session...
-2025-08-15 19:52:42,666 - INFO - Browser Launch Successfully.
-2025-08-15 19:52:44,193 - INFO - URL Open Successfully.
-2025-08-15 19:52:44,194 - INFO - TC_TB_CUST_05 Started..
-2025-08-15 19:52:44,333 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:52:44,450 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:52:44,570 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:52:44,661 - INFO - Customer Password Enter successfully.
-2025-08-15 19:52:44,732 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:52:44,844 - INFO - Click on Register button successfully.
-2025-08-15 19:52:44,867 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
-2025-08-15 19:52:44,869 - INFO - Script Complete.
-2025-08-15 19:52:47,130 - INFO - End Browser Session...
-2025-08-15 19:52:47,130 - INFO - ................
-2025-08-15 19:52:47,131 - INFO - ................
-2025-08-15 19:52:54,192 - INFO - Starting Browser Session...
-2025-08-15 19:52:55,619 - INFO - Browser Launch Successfully.
-2025-08-15 19:52:56,996 - INFO - URL Open Successfully.
-2025-08-15 19:52:56,998 - INFO - TC_TB_CUST_01 Started..
-2025-08-15 19:52:57,133 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:52:57,259 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:52:57,366 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:52:57,445 - INFO - Customer Password Enter successfully.
-2025-08-15 19:52:57,512 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:52:57,657 - INFO - Click on Register button successfully.
-2025-08-15 19:52:57,714 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
-2025-08-15 19:52:57,717 - INFO - Script Complete.
-2025-08-15 19:52:59,956 - INFO - End Browser Session...
-2025-08-15 19:52:59,956 - INFO - ................
-2025-08-15 19:52:59,956 - INFO - ................
-2025-08-15 19:52:59,958 - INFO - Starting Browser Session...
-2025-08-15 19:53:01,395 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:02,962 - INFO - URL Open Successfully.
-2025-08-15 19:53:02,963 - INFO - TC_TB_CUST_02 Started..
-2025-08-15 19:53:03,100 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:53:03,230 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:53:03,317 - INFO - Customer Password Enter successfully.
-2025-08-15 19:53:03,388 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:53:03,502 - INFO - Click on Register button successfully.
-2025-08-15 19:53:03,539 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:53:03,540 - INFO - Script Complete.
-2025-08-15 19:53:05,760 - INFO - End Browser Session...
-2025-08-15 19:53:05,760 - INFO - ................
-2025-08-15 19:53:05,760 - INFO - ................
-2025-08-15 19:53:05,762 - INFO - Starting Browser Session...
-2025-08-15 19:53:07,355 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:09,747 - INFO - URL Open Successfully.
-2025-08-15 19:53:09,748 - INFO - TC_TB_CUST_03 Started..
-2025-08-15 19:53:09,885 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:53:10,025 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:53:10,121 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:53:10,194 - INFO - Customer Password Enter successfully.
-2025-08-15 19:53:10,266 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:53:10,412 - INFO - Click on Register button successfully.
-2025-08-15 19:53:10,876 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:53:10,919 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:53:10,920 - INFO - Script Complete.
-2025-08-15 19:53:13,169 - INFO - End Browser Session...
-2025-08-15 19:53:13,169 - INFO - ................
-2025-08-15 19:53:13,169 - INFO - ................
-2025-08-15 19:53:13,170 - INFO - Starting Browser Session...
-2025-08-15 19:53:14,861 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:15,895 - INFO - URL Open Successfully.
-2025-08-15 19:53:15,896 - INFO - TC_TB_CUST_04 Started..
-2025-08-15 19:53:16,039 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:53:16,156 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:53:16,270 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:53:16,374 - INFO - Customer Password Enter successfully.
-2025-08-15 19:53:16,449 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:53:16,564 - INFO - Click on Register button successfully.
-2025-08-15 19:53:16,588 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
-2025-08-15 19:53:16,590 - INFO - Script Complete.
-2025-08-15 19:53:18,823 - INFO - End Browser Session...
-2025-08-15 19:53:18,824 - INFO - ................
-2025-08-15 19:53:18,824 - INFO - ................
-2025-08-15 19:53:18,826 - INFO - Starting Browser Session...
-2025-08-15 19:53:20,316 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:21,575 - INFO - URL Open Successfully.
-2025-08-15 19:53:21,576 - INFO - TC_TB_CUST_05 Started..
-2025-08-15 19:53:21,725 - INFO - Click on Open Your Account Button successfully.
-2025-08-15 19:53:21,843 - INFO - Customer Full Name entered successfully.
-2025-08-15 19:53:21,947 - INFO - Customer Email Address entered successfully.
-2025-08-15 19:53:22,024 - INFO - Customer Password Enter successfully.
-2025-08-15 19:53:22,092 - INFO - Customer Initial Deposit Entered successfully.
-2025-08-15 19:53:22,204 - INFO - Click on Register button successfully.
-2025-08-15 19:53:22,228 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
-2025-08-15 19:53:22,230 - INFO - Script Complete.
-2025-08-15 19:53:24,460 - INFO - End Browser Session...
-2025-08-15 19:53:24,461 - INFO - ................
-2025-08-15 19:53:24,461 - INFO - ................
-2025-08-15 19:53:24,463 - INFO - Starting Browser Session...
-2025-08-15 19:53:25,963 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:27,185 - INFO - URL Open Successfully.
-2025-08-15 19:53:27,186 - INFO - TC_TB_MAN_01 Started..
-2025-08-15 19:53:27,333 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:53:27,470 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:53:27,591 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:53:27,690 - INFO - Manager Password Enter successfully.
-2025-08-15 19:53:27,839 - INFO - Click on Register button successfully.
-2025-08-15 19:53:27,883 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
-2025-08-15 19:53:27,884 - INFO - Script Complete.
-2025-08-15 19:53:30,116 - INFO - End Browser Session...
-2025-08-15 19:53:30,116 - INFO - ................
-2025-08-15 19:53:30,116 - INFO - ................
-2025-08-15 19:53:30,118 - INFO - Starting Browser Session...
-2025-08-15 19:53:31,588 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:31,936 - INFO - URL Open Successfully.
-2025-08-15 19:53:31,937 - INFO - TC_TB_MAN_02 Started..
-2025-08-15 19:53:33,083 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:53:33,234 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:53:33,344 - INFO - Manager Password Enter successfully.
-2025-08-15 19:53:33,469 - INFO - Click on Register button successfully.
-2025-08-15 19:53:33,518 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
-2025-08-15 19:53:33,520 - INFO - Script Complete.
-2025-08-15 19:53:35,885 - INFO - End Browser Session...
-2025-08-15 19:53:35,886 - INFO - ................
-2025-08-15 19:53:35,886 - INFO - ................
-2025-08-15 19:53:35,888 - INFO - Starting Browser Session...
-2025-08-15 19:53:37,506 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:38,641 - INFO - URL Open Successfully.
-2025-08-15 19:53:38,642 - INFO - TC_TB_MAN_03 Started..
-2025-08-15 19:53:38,782 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:53:38,906 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:53:39,033 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:53:39,111 - INFO - Manager Password Enter successfully.
-2025-08-15 19:53:39,246 - INFO - Click on Register button successfully.
-2025-08-15 19:53:39,602 - INFO - Input the same values for the second time to check Email Duplicacy
-2025-08-15 19:53:39,649 - INFO - Test Passed. Message matched: 'Email already registered.'
-2025-08-15 19:53:39,651 - INFO - Script Complete.
-2025-08-15 19:53:41,882 - INFO - End Browser Session...
-2025-08-15 19:53:41,882 - INFO - ................
-2025-08-15 19:53:41,882 - INFO - ................
-2025-08-15 19:53:41,884 - INFO - Starting Browser Session...
-2025-08-15 19:53:43,525 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:45,018 - INFO - URL Open Successfully.
-2025-08-15 19:53:45,019 - INFO - TC_TB_MAN_04 Started..
-2025-08-15 19:53:45,159 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:53:45,275 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:53:45,382 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:53:45,459 - INFO - Manager Password Enter successfully.
-2025-08-15 19:53:45,603 - INFO - Click on Register button successfully.
-2025-08-15 19:53:45,651 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
-2025-08-15 19:53:45,652 - INFO - Script Complete.
-2025-08-15 19:53:47,864 - INFO - End Browser Session...
-2025-08-15 19:53:48,162 - INFO - ................
-2025-08-15 19:53:48,163 - INFO - ................
-2025-08-15 19:53:48,165 - INFO - Starting Browser Session...
-2025-08-15 19:53:49,643 - INFO - Browser Launch Successfully.
-2025-08-15 19:53:50,987 - INFO - URL Open Successfully.
-2025-08-15 19:53:50,988 - INFO - TC_TB_MAN_05 Started..
-2025-08-15 19:53:51,152 - INFO - Click on Register as Manager successfully.
-2025-08-15 19:53:51,276 - INFO - Manager Full Name entered successfully.
-2025-08-15 19:53:51,401 - INFO - Manager Email Address entered successfully.
-2025-08-15 19:53:51,515 - INFO - Manager Password Enter successfully.
-2025-08-15 19:53:51,622 - INFO - Click on Register button successfully.
-2025-08-15 19:53:51,649 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
-2025-08-15 19:53:51,650 - INFO - Script Complete.
-2025-08-15 19:53:53,881 - INFO - End Browser Session...
-2025-08-15 19:53:53,881 - INFO - ................
-2025-08-15 19:53:53,881 - INFO - ................
+2025-08-18 01:44:10,602 - INFO - Starting Browser Session...
+2025-08-18 01:44:31,462 - INFO - Browser Launch Successfully.
+2025-08-18 01:44:36,026 - INFO - URL Open Successfully.
+2025-08-18 01:44:36,031 - INFO - TC_TB_CUST_01 Started..
+2025-08-18 01:44:36,167 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:44:36,291 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:44:36,393 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:44:36,469 - INFO - Customer Password Enter successfully.
+2025-08-18 01:44:36,535 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:44:36,685 - INFO - Click on Register button successfully.
+2025-08-18 01:44:36,724 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
+2025-08-18 01:44:36,727 - INFO - Script Complete.
+2025-08-18 01:44:39,004 - INFO - End Browser Session...
+2025-08-18 01:44:39,004 - INFO - ................
+2025-08-18 01:44:39,005 - INFO - ................
+2025-08-18 01:44:41,212 - INFO - Starting Browser Session...
+2025-08-18 01:44:42,703 - INFO - Browser Launch Successfully.
+2025-08-18 01:44:45,106 - INFO - URL Open Successfully.
+2025-08-18 01:44:45,108 - INFO - TC_TB_CUST_02 Started..
+2025-08-18 01:44:45,248 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:44:45,385 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:44:45,464 - INFO - Customer Password Enter successfully.
+2025-08-18 01:44:45,540 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:44:45,654 - INFO - Click on Register button successfully.
+2025-08-18 01:44:45,682 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
+2025-08-18 01:44:45,686 - INFO - Script Complete.
+2025-08-18 01:44:47,900 - INFO - End Browser Session...
+2025-08-18 01:44:47,901 - INFO - ................
+2025-08-18 01:44:47,901 - INFO - ................
+2025-08-18 01:44:47,906 - INFO - Starting Browser Session...
+2025-08-18 01:44:49,604 - INFO - Browser Launch Successfully.
+2025-08-18 01:44:50,111 - INFO - URL Open Successfully.
+2025-08-18 01:44:50,113 - INFO - TC_TB_CUST_03 Started..
+2025-08-18 01:44:50,985 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:44:51,116 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:44:51,236 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:44:51,315 - INFO - Customer Password Enter successfully.
+2025-08-18 01:44:51,380 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:44:51,517 - INFO - Click on Register button successfully.
+2025-08-18 01:44:51,982 - INFO - Input the same values for the second time to check Email Duplicacy
+2025-08-18 01:44:52,021 - INFO - Test Passed. Message matched: 'Email already registered.'
+2025-08-18 01:44:52,024 - INFO - Script Complete.
+2025-08-18 01:44:54,223 - INFO - End Browser Session...
+2025-08-18 01:44:54,223 - INFO - ................
+2025-08-18 01:44:54,224 - INFO - ................
+2025-08-18 01:44:54,228 - INFO - Starting Browser Session...
+2025-08-18 01:44:55,736 - INFO - Browser Launch Successfully.
+2025-08-18 01:44:57,397 - INFO - URL Open Successfully.
+2025-08-18 01:44:57,398 - INFO - TC_TB_CUST_04 Started..
+2025-08-18 01:44:57,547 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:44:57,673 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:44:57,786 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:44:57,907 - INFO - Customer Password Enter successfully.
+2025-08-18 01:44:58,003 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:44:58,150 - INFO - Click on Register button successfully.
+2025-08-18 01:44:58,184 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
+2025-08-18 01:44:58,187 - INFO - Script Complete.
+2025-08-18 01:45:00,609 - INFO - End Browser Session...
+2025-08-18 01:45:00,609 - INFO - ................
+2025-08-18 01:45:00,609 - INFO - ................
+2025-08-18 01:45:00,615 - INFO - Starting Browser Session...
+2025-08-18 01:45:02,809 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:04,416 - INFO - URL Open Successfully.
+2025-08-18 01:45:04,418 - INFO - TC_TB_CUST_05 Started..
+2025-08-18 01:45:04,584 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:45:04,724 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:45:04,835 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:45:04,928 - INFO - Customer Password Enter successfully.
+2025-08-18 01:45:05,013 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:45:05,139 - INFO - Click on Register button successfully.
+2025-08-18 01:45:05,168 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
+2025-08-18 01:45:05,171 - INFO - Script Complete.
+2025-08-18 01:45:07,497 - INFO - End Browser Session...
+2025-08-18 01:45:07,498 - INFO - ................
+2025-08-18 01:45:07,498 - INFO - ................
+2025-08-18 01:45:07,520 - INFO - Starting Browser Session...
+2025-08-18 01:45:09,005 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:10,182 - INFO - URL Open Successfully.
+2025-08-18 01:45:10,184 - INFO - TC_TB_MAN_01 Started..
+2025-08-18 01:45:10,325 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:45:10,447 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:45:10,568 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:45:10,649 - INFO - Manager Password Enter successfully.
+2025-08-18 01:45:10,784 - INFO - Click on Register button successfully.
+2025-08-18 01:45:10,826 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
+2025-08-18 01:45:10,828 - INFO - Script Complete.
+2025-08-18 01:45:13,019 - INFO - End Browser Session...
+2025-08-18 01:45:13,019 - INFO - ................
+2025-08-18 01:45:13,019 - INFO - ................
+2025-08-18 01:45:13,024 - INFO - Starting Browser Session...
+2025-08-18 01:45:14,773 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:16,757 - INFO - URL Open Successfully.
+2025-08-18 01:45:16,759 - INFO - TC_TB_MAN_02 Started..
+2025-08-18 01:45:16,909 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:45:17,361 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:45:17,475 - INFO - Manager Password Enter successfully.
+2025-08-18 01:45:17,605 - INFO - Click on Register button successfully.
+2025-08-18 01:45:17,646 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
+2025-08-18 01:45:17,649 - INFO - Script Complete.
+2025-08-18 01:45:19,871 - INFO - End Browser Session...
+2025-08-18 01:45:19,871 - INFO - ................
+2025-08-18 01:45:19,871 - INFO - ................
+2025-08-18 01:45:19,876 - INFO - Starting Browser Session...
+2025-08-18 01:45:21,351 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:22,402 - INFO - URL Open Successfully.
+2025-08-18 01:45:22,404 - INFO - TC_TB_MAN_03 Started..
+2025-08-18 01:45:22,540 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:45:22,674 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:45:22,789 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:45:22,864 - INFO - Manager Password Enter successfully.
+2025-08-18 01:45:23,004 - INFO - Click on Register button successfully.
+2025-08-18 01:45:23,374 - INFO - Input the same values for the second time to check Email Duplicacy
+2025-08-18 01:45:23,417 - INFO - Test Passed. Message matched: 'Email already registered.'
+2025-08-18 01:45:23,419 - INFO - Script Complete.
+2025-08-18 01:45:25,622 - INFO - End Browser Session...
+2025-08-18 01:45:25,623 - INFO - ................
+2025-08-18 01:45:25,623 - INFO - ................
+2025-08-18 01:45:25,628 - INFO - Starting Browser Session...
+2025-08-18 01:45:27,032 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:28,103 - INFO - URL Open Successfully.
+2025-08-18 01:45:28,104 - INFO - TC_TB_MAN_04 Started..
+2025-08-18 01:45:28,246 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:45:28,351 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:45:28,453 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:45:28,558 - INFO - Manager Password Enter successfully.
+2025-08-18 01:45:28,707 - INFO - Click on Register button successfully.
+2025-08-18 01:45:28,749 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
+2025-08-18 01:45:28,751 - INFO - Script Complete.
+2025-08-18 01:45:30,969 - INFO - End Browser Session...
+2025-08-18 01:45:30,970 - INFO - ................
+2025-08-18 01:45:30,970 - INFO - ................
+2025-08-18 01:45:30,974 - INFO - Starting Browser Session...
+2025-08-18 01:45:33,201 - INFO - Browser Launch Successfully.
+2025-08-18 01:45:33,728 - INFO - URL Open Successfully.
+2025-08-18 01:45:33,730 - INFO - TC_TB_MAN_05 Started..
+2025-08-18 01:45:34,781 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:45:34,903 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:45:35,038 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:45:35,150 - INFO - Manager Password Enter successfully.
+2025-08-18 01:45:35,304 - INFO - Click on Register button successfully.
+2025-08-18 01:45:35,331 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
+2025-08-18 01:45:36,726 - INFO - Script Complete.
+2025-08-18 01:45:39,509 - INFO - End Browser Session...
+2025-08-18 01:45:39,509 - INFO - ................
+2025-08-18 01:45:39,509 - INFO - ................
+2025-08-18 01:55:58,145 - INFO - Starting Browser Session...
+2025-08-18 01:55:59,845 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:01,469 - INFO - URL Open Successfully.
+2025-08-18 01:56:01,473 - INFO - TC_TB_CUST_01 Started..
+2025-08-18 01:56:01,627 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:56:01,917 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:56:02,062 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:56:02,186 - INFO - Customer Password Enter successfully.
+2025-08-18 01:56:02,264 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:56:02,438 - INFO - Click on Register button successfully.
+2025-08-18 01:56:02,496 - INFO - Test Passed. Message matched: 'Customer registered! Please login.'
+2025-08-18 01:56:02,499 - INFO - Script Complete.
+2025-08-18 01:56:04,845 - INFO - End Browser Session...
+2025-08-18 01:56:04,845 - INFO - ................
+2025-08-18 01:56:04,846 - INFO - ................
+2025-08-18 01:56:04,852 - INFO - Starting Browser Session...
+2025-08-18 01:56:07,016 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:08,577 - INFO - URL Open Successfully.
+2025-08-18 01:56:08,579 - INFO - TC_TB_CUST_02 Started..
+2025-08-18 01:56:08,720 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:56:08,869 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:56:08,950 - INFO - Customer Password Enter successfully.
+2025-08-18 01:56:09,020 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:56:09,142 - INFO - Click on Register button successfully.
+2025-08-18 01:56:09,175 - INFO - Test Passed. Customer Full name Validation message matched: 'Please fill out this field.'
+2025-08-18 01:56:09,179 - INFO - Script Complete.
+2025-08-18 01:56:11,392 - INFO - End Browser Session...
+2025-08-18 01:56:11,392 - INFO - ................
+2025-08-18 01:56:11,392 - INFO - ................
+2025-08-18 01:56:11,397 - INFO - Starting Browser Session...
+2025-08-18 01:56:13,617 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:14,989 - INFO - URL Open Successfully.
+2025-08-18 01:56:14,991 - INFO - TC_TB_CUST_03 Started..
+2025-08-18 01:56:15,129 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:56:15,264 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:56:15,529 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:56:15,604 - INFO - Customer Password Enter successfully.
+2025-08-18 01:56:15,694 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:56:16,328 - INFO - Click on Register button successfully.
+2025-08-18 01:56:17,218 - INFO - Input the same values for the second time to check Email Duplicacy
+2025-08-18 01:56:17,264 - INFO - Test Passed. Message matched: 'Email already registered.'
+2025-08-18 01:56:17,267 - INFO - Script Complete.
+2025-08-18 01:56:19,558 - INFO - End Browser Session...
+2025-08-18 01:56:19,558 - INFO - ................
+2025-08-18 01:56:19,558 - INFO - ................
+2025-08-18 01:56:19,563 - INFO - Starting Browser Session...
+2025-08-18 01:56:21,168 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:21,504 - INFO - URL Open Successfully.
+2025-08-18 01:56:21,508 - INFO - TC_TB_CUST_04 Started..
+2025-08-18 01:56:22,668 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:56:22,782 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:56:22,879 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:56:22,956 - INFO - Customer Password Enter successfully.
+2025-08-18 01:56:23,024 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:56:23,142 - INFO - Click on Register button successfully.
+2025-08-18 01:56:23,201 - INFO - Test Passed. Email Validation message matched: 'Please include an '@' in the email address. 'rownak123gmail.com' is missing an '@'.'
+2025-08-18 01:56:23,204 - INFO - Script Complete.
+2025-08-18 01:56:25,417 - INFO - End Browser Session...
+2025-08-18 01:56:25,418 - INFO - ................
+2025-08-18 01:56:25,418 - INFO - ................
+2025-08-18 01:56:25,424 - INFO - Starting Browser Session...
+2025-08-18 01:56:27,033 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:28,942 - INFO - URL Open Successfully.
+2025-08-18 01:56:28,944 - INFO - TC_TB_CUST_05 Started..
+2025-08-18 01:56:29,096 - INFO - Click on Open Your Account Button successfully.
+2025-08-18 01:56:29,218 - INFO - Customer Full Name entered successfully.
+2025-08-18 01:56:29,316 - INFO - Customer Email Address entered successfully.
+2025-08-18 01:56:29,390 - INFO - Customer Password Enter successfully.
+2025-08-18 01:56:29,454 - INFO - Customer Initial Deposit Entered successfully.
+2025-08-18 01:56:29,567 - INFO - Click on Register button successfully.
+2025-08-18 01:56:29,587 - INFO - Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
+2025-08-18 01:56:29,590 - INFO - Script Complete.
+2025-08-18 01:56:31,783 - INFO - End Browser Session...
+2025-08-18 01:56:31,783 - INFO - ................
+2025-08-18 01:56:31,783 - INFO - ................
+2025-08-18 01:56:31,787 - INFO - Starting Browser Session...
+2025-08-18 01:56:33,304 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:33,775 - INFO - URL Open Successfully.
+2025-08-18 01:56:33,777 - INFO - TC_TB_MAN_01 Started..
+2025-08-18 01:56:34,751 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:56:34,895 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:56:35,022 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:56:35,116 - INFO - Manager Password Enter successfully.
+2025-08-18 01:56:35,276 - INFO - Click on Register button successfully.
+2025-08-18 01:56:35,327 - INFO - Test Passed. Message matched: 'Manager registered! Please login.'
+2025-08-18 01:56:35,329 - INFO - Script Complete.
+2025-08-18 01:56:37,752 - INFO - End Browser Session...
+2025-08-18 01:56:37,752 - INFO - ................
+2025-08-18 01:56:37,752 - INFO - ................
+2025-08-18 01:56:37,757 - INFO - Starting Browser Session...
+2025-08-18 01:56:39,240 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:39,747 - INFO - URL Open Successfully.
+2025-08-18 01:56:39,749 - INFO - TC_TB_MAN_02 Started..
+2025-08-18 01:56:40,948 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:56:41,101 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:56:41,196 - INFO - Manager Password Enter successfully.
+2025-08-18 01:56:41,320 - INFO - Click on Register button successfully.
+2025-08-18 01:56:41,354 - INFO - Test Passed. Manager Full name Validation message matched: 'Please fill out this field.'
+2025-08-18 01:56:41,979 - INFO - Script Complete.
+2025-08-18 01:56:44,210 - INFO - End Browser Session...
+2025-08-18 01:56:44,210 - INFO - ................
+2025-08-18 01:56:44,211 - INFO - ................
+2025-08-18 01:56:44,215 - INFO - Starting Browser Session...
+2025-08-18 01:56:45,793 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:47,075 - INFO - URL Open Successfully.
+2025-08-18 01:56:47,076 - INFO - TC_TB_MAN_03 Started..
+2025-08-18 01:56:47,214 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:56:47,339 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:56:47,458 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:56:47,533 - INFO - Manager Password Enter successfully.
+2025-08-18 01:56:47,670 - INFO - Click on Register button successfully.
+2025-08-18 01:56:48,017 - INFO - Input the same values for the second time to check Email Duplicacy
+2025-08-18 01:56:48,065 - INFO - Test Passed. Message matched: 'Email already registered.'
+2025-08-18 01:56:48,067 - INFO - Script Complete.
+2025-08-18 01:56:50,304 - INFO - End Browser Session...
+2025-08-18 01:56:50,305 - INFO - ................
+2025-08-18 01:56:50,305 - INFO - ................
+2025-08-18 01:56:50,309 - INFO - Starting Browser Session...
+2025-08-18 01:56:51,775 - INFO - Browser Launch Successfully.
+2025-08-18 01:56:52,194 - INFO - URL Open Successfully.
+2025-08-18 01:56:52,197 - INFO - TC_TB_MAN_04 Started..
+2025-08-18 01:56:53,327 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:56:54,819 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:56:54,906 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:56:55,008 - INFO - Manager Password Enter successfully.
+2025-08-18 01:56:55,176 - INFO - Click on Register button successfully.
+2025-08-18 01:56:55,225 - INFO - Test Passed. Message matched: 'Password must be at least 6 characters long.'
+2025-08-18 01:56:55,227 - INFO - Script Complete.
+2025-08-18 01:56:57,479 - INFO - End Browser Session...
+2025-08-18 01:56:57,479 - INFO - ................
+2025-08-18 01:56:57,479 - INFO - ................
+2025-08-18 01:56:57,484 - INFO - Starting Browser Session...
+2025-08-18 01:56:59,039 - INFO - Browser Launch Successfully.
+2025-08-18 01:57:00,149 - INFO - URL Open Successfully.
+2025-08-18 01:57:00,151 - INFO - TC_TB_MAN_05 Started..
+2025-08-18 01:57:00,292 - INFO - Click on Register as Manager successfully.
+2025-08-18 01:57:00,404 - INFO - Manager Full Name entered successfully.
+2025-08-18 01:57:00,522 - INFO - Manager Email Address entered successfully.
+2025-08-18 01:57:00,615 - INFO - Manager Password Enter successfully.
+2025-08-18 01:57:00,718 - INFO - Click on Register button successfully.
+2025-08-18 01:57:00,738 - INFO - Test Passed. Manager Email Error Validation message matched for SQL injection: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.'
+2025-08-18 01:57:00,742 - INFO - Script Complete.
+2025-08-18 01:57:02,929 - INFO - End Browser Session...
+2025-08-18 01:57:02,929 - INFO - ................
+2025-08-18 01:57:02,929 - INFO - ................

@@ -1,0 +1,14 @@
+[32mINFO    [0m root:conftest.py:30 Starting browser session with firefox...
+[32mINFO    [0m root:conftest.py:47 firefox browser launched successfully.
+[32mINFO    [0m root:conftest.py:53 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:15 TC_TB_MAN_05 Started..
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:23 Click on Register as Manager successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:32 Manager Full Name entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:41 Manager Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:50 Manager Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:59 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_05.py:73 Test Failed. Expected: 'Please include an '@' in the email address. '' DROP TABLE users; --' is missing an '@'.', Actual: 'Please enter an email address.'
+[32mINFO    [0m root:conftest.py:56 Script Complete.
+[32mINFO    [0m root:conftest.py:58 End Browser Session...
+[32mINFO    [0m root:conftest.py:59 ................
+[32mINFO    [0m root:conftest.py:60 ................

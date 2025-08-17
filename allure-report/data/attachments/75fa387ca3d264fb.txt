@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:16 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:20 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:25 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:16 TC_TB_CUST_05 Started..
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:24 Click on Open Your Account Button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:33 Customer Full Name entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:42 Customer Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:51 Customer Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:60 Customer Initial Deposit Entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:69 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_05.py:81 Test Passed. Initial Deposit Validation message matched: 'Value must be greater than or equal to 10.'
+[32mINFO    [0m root:conftest.py:28 Script Complete.
+[32mINFO    [0m root:conftest.py:30 End Browser Session...
+[32mINFO    [0m root:conftest.py:31 ................
+[32mINFO    [0m root:conftest.py:32 ................

@@ -1,0 +1,16 @@
+[32mINFO    [0m root:conftest.py:16 Starting Browser Session...
+[32mINFO    [0m root:conftest.py:20 Browser Launch Successfully.
+[32mINFO    [0m root:conftest.py:25 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:15 TC_TB_CUST_03 Started..
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:23 Click on Open Your Account Button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:32 Customer Full Name entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:41 Customer Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:50 Customer Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:59 Customer Initial Deposit Entered successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:68 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:80 Input the same values for the second time to check Email Duplicacy
+[32mINFO    [0m root:test_TC_TB_CUST_03.py:89 Test Passed. Message matched: 'Email already registered.'
+[32mINFO    [0m root:conftest.py:28 Script Complete.
+[32mINFO    [0m root:conftest.py:30 End Browser Session...
+[32mINFO    [0m root:conftest.py:31 ................
+[32mINFO    [0m root:conftest.py:32 ................

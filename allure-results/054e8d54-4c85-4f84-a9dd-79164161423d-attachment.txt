@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:30 Starting browser session with firefox...
+[32mINFO    [0m root:conftest.py:47 firefox browser launched successfully.
+[32mINFO    [0m root:conftest.py:53 URL Open Successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:15 TC_TB_MAN_03 Started..
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:23 Click on Register as Manager successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:32 Manager Full Name entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:42 Manager Email Address entered successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:51 Manager Password Enter successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:60 Click on Register button successfully.
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:71 Input the same values for the second time to check Email Duplicacy
+[32mINFO    [0m root:test_TC_TB_MAN_03.py:79 Test Passed. Message matched: 'Email already registered.'
+[32mINFO    [0m root:conftest.py:56 Script Complete.
+[32mINFO    [0m root:conftest.py:58 End Browser Session...
+[32mINFO    [0m root:conftest.py:59 ................
+[32mINFO    [0m root:conftest.py:60 ................
